@@ -1,2 +1,3 @@
 # hello-world
-I'm learnding how to make code
+I'm learning how to make code
+I have absoultely no idea what I'm doing
